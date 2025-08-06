@@ -5,7 +5,7 @@ import (
 	"log"
 	"path/filepath"
 
-	"filebrowser-sdk"
+	"github.com/kiuber/filebrowser-sdk"
 )
 
 func main() {

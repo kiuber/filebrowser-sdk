@@ -1,4 +1,4 @@
-module filebrowser-sdk
+module github.com/kiuber/filebrowser-sdk
 
 go 1.24
 
